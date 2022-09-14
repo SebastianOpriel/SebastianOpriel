@@ -53,6 +53,12 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#451](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/451) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+2. ❗️ Opened issue [#439](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/439) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+3. ❗️ Opened issue [#261](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/261) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+4. ❗️ Opened issue [#260](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/260) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+5. 💪 Opened PR [#259](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/259) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+<!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianOpriel&ring=26B9D1&fire=26B9D1&currStreakLabel=26B9D1)](https://git.io/streak-stats)
