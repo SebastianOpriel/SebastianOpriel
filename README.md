@@ -54,10 +54,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
-2. ❌ Closed PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
-3. 💪 Opened PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
-4. 🗣 Commented on [#452](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/452) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+1. 🎉 Merged PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+2. ❌ Reopened PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+3. ❌ Closed PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+4. 💪 Opened PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
 5. 🗣 Commented on [#452](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/452) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
 <!--END_SECTION:activity-->
 
