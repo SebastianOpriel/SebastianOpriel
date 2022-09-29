@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#464](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/464) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-2. ❗️ Opened issue [#463](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/463) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-3. ❗️ Opened issue [#54](https://github.com/International-Data-Spaces-Association/IDS-G/issues/54) in [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G)
-4. 🎉 Merged PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
-5. ❌ Reopened PR [#1](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/1) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+1. 🗣 Commented on [#283](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/283) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+2. ❗️ Opened issue [#465](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/465) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+3. ❗️ Opened issue [#464](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/464) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+4. ❗️ Opened issue [#463](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/463) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+5. ❗️ Opened issue [#54](https://github.com/International-Data-Spaces-Association/IDS-G/issues/54) in [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
