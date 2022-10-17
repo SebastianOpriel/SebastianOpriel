@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#465](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/465) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-2. 🗣 Commented on [#465](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/465) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-3. 🗣 Commented on [#464](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/464) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-4. ❗️ Opened issue [#479](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/479) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-5. ❗️ Closed issue [#262](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/262) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+1. 🗣 Commented on [#1](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/1) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
+2. 🗣 Commented on [#451](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/451) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+3. ❗️ Closed issue [#465](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/465) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+4. 🗣 Commented on [#465](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/465) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+5. 🗣 Commented on [#464](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/464) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
