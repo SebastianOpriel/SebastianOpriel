@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Mobility-Data-Space/MDS-Broker-Core/issues/23) in [Mobility-Data-Space/MDS-Broker-Core](https://github.com/Mobility-Data-Space/MDS-Broker-Core)
-2. ❗️ Reopened issue [#23](https://github.com/Mobility-Data-Space/MDS-Broker-Core/issues/23) in [Mobility-Data-Space/MDS-Broker-Core](https://github.com/Mobility-Data-Space/MDS-Broker-Core)
-3. 💪 Opened PR [#4](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/4) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
-4. ❗️ Opened issue [#3](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/issues/3) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
-5. ❗️ Opened issue [#298](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/298) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+1. 💪 Opened PR [#5](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/5) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+2. 🗣 Commented on [#23](https://github.com/Mobility-Data-Space/MDS-Broker-Core/issues/23) in [Mobility-Data-Space/MDS-Broker-Core](https://github.com/Mobility-Data-Space/MDS-Broker-Core)
+3. ❗️ Reopened issue [#23](https://github.com/Mobility-Data-Space/MDS-Broker-Core/issues/23) in [Mobility-Data-Space/MDS-Broker-Core](https://github.com/Mobility-Data-Space/MDS-Broker-Core)
+4. 💪 Opened PR [#4](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/4) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+5. ❗️ Opened issue [#3](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/issues/3) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
