@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/8) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
-2. 🎉 Merged PR [#29](https://github.com/Mobility-Data-Space/mobility-data-space/pull/29) in [Mobility-Data-Space/mobility-data-space](https://github.com/Mobility-Data-Space/mobility-data-space)
-3. 💪 Opened PR [#117](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/pull/117) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
-4. 💪 Opened PR [#29](https://github.com/Mobility-Data-Space/mobility-data-space/pull/29) in [Mobility-Data-Space/mobility-data-space](https://github.com/Mobility-Data-Space/mobility-data-space)
-5. 💪 Opened PR [#5](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/5) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+1. 💪 Opened PR [#9](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/9) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+2. 💪 Opened PR [#8](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend/pull/8) in [Mobility-Data-Space/ids-metadata-broker-open-frontend](https://github.com/Mobility-Data-Space/ids-metadata-broker-open-frontend)
+3. 🎉 Merged PR [#29](https://github.com/Mobility-Data-Space/mobility-data-space/pull/29) in [Mobility-Data-Space/mobility-data-space](https://github.com/Mobility-Data-Space/mobility-data-space)
+4. 💪 Opened PR [#117](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/pull/117) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
+5. 💪 Opened PR [#29](https://github.com/Mobility-Data-Space/mobility-data-space/pull/29) in [Mobility-Data-Space/mobility-data-space](https://github.com/Mobility-Data-Space/mobility-data-space)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
