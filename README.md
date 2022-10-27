@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#300](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/300) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
-2. ❗️ Closed issue [#118](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/118) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
-3. 🗣 Commented on [#118](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/118) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
-4. ❗️ Reopened issue [#118](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/118) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
-5. ❗️ Closed issue [#118](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/118) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
+1. 💪 Opened PR [#7](https://github.com/Mobility-Data-Space/Deployment-Examples/pull/7) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
+2. 💪 Opened PR [#300](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/300) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+3. ❗️ Closed issue [#118](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/118) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
+4. 🗣 Commented on [#118](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/118) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
+5. ❗️ Reopened issue [#118](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/118) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
