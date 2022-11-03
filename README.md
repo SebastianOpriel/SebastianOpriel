@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#116](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/116) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
-2. 🎉 Merged PR [#117](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/pull/117) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
-3. 🗣 Commented on [#101](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/101) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
-4. 🗣 Commented on [#4](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/4) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
-5. 🎉 Merged PR [#7](https://github.com/Mobility-Data-Space/Deployment-Examples/pull/7) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
+1. ❗️ Closed issue [#301](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/301) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+2. 🎉 Merged PR [#302](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/302) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+3. ❗️ Closed issue [#116](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/issues/116) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
+4. 🎉 Merged PR [#117](https://github.com/Mobility-Data-Space/DataspaceConnectorUI/pull/117) in [Mobility-Data-Space/DataspaceConnectorUI](https://github.com/Mobility-Data-Space/DataspaceConnectorUI)
+5. 🗣 Commented on [#101](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/101) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
