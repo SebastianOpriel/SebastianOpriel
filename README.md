@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#634](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/issues/634) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
-2. 🗣 Commented on [#62](https://github.com/micnncim/action-label-syncer/issues/62) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
-3. ❗️ Opened issue [#634](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/issues/634) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
-4. ❗️ Opened issue [#26](https://github.com/Mobility-Data-Space/MDS-Broker-Core/issues/26) in [Mobility-Data-Space/MDS-Broker-Core](https://github.com/Mobility-Data-Space/MDS-Broker-Core)
-5. 🗣 Commented on [#303](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/303) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+1. 🗣 Commented on [#62](https://github.com/micnncim/action-label-syncer/issues/62) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
+2. 🗣 Commented on [#48](https://github.com/Financial-Times/github-label-sync/issues/48) in [Financial-Times/github-label-sync](https://github.com/Financial-Times/github-label-sync)
+3. 🗣 Commented on [#634](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/issues/634) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+4. 🗣 Commented on [#62](https://github.com/micnncim/action-label-syncer/issues/62) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
+5. ❗️ Opened issue [#634](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/issues/634) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
