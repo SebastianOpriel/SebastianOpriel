@@ -54,10 +54,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#305](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/305) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
-2. 🗣 Commented on [#62](https://github.com/micnncim/action-label-syncer/issues/62) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
-3. 🗣 Commented on [#48](https://github.com/Financial-Times/github-label-sync/issues/48) in [Financial-Times/github-label-sync](https://github.com/Financial-Times/github-label-sync)
-4. 🗣 Commented on [#634](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/issues/634) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+1. ❗️ Closed issue [#305](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/305) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+2. 🎉 Merged PR [#306](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/306) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+3. 💪 Opened PR [#306](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/306) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+4. ❗️ Opened issue [#305](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/305) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
 5. 🗣 Commented on [#62](https://github.com/micnncim/action-label-syncer/issues/62) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
 <!--END_SECTION:activity-->
 
