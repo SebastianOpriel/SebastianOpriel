@@ -54,11 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/1) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
-2. ❗️ Closed issue [#1](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/1) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
-3. 🗣 Commented on [#4](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/4) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
-4. ❗️ Closed issue [#4](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/4) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
-5. 🎉 Merged PR [#8](https://github.com/Mobility-Data-Space/Deployment-Examples/pull/8) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
+1. 🗣 Commented on [#125](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core/issues/125) in [International-Data-Spaces-Association/metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+2. 🗣 Commented on [#1](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/1) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
+3. ❗️ Closed issue [#1](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/1) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
+4. 🗣 Commented on [#4](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/4) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
+5. ❗️ Closed issue [#4](https://github.com/Mobility-Data-Space/Deployment-Examples/issues/4) in [Mobility-Data-Space/Deployment-Examples](https://github.com/Mobility-Data-Space/Deployment-Examples)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
