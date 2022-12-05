@@ -11,7 +11,6 @@
 ### Worked with
 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
