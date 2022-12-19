@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#608](https://github.com/International-Data-Spaces-Association/DataspaceConnector/pull/608) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-2. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core/issues/121) in [International-Data-Spaces-Association/metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+1. 🎉 Merged PR [#1](https://github.com/sovity/edc-broker-extension/pull/1) in [sovity/edc-broker-extension](https://github.com/sovity/edc-broker-extension)
+2. 💪 Opened PR [#608](https://github.com/International-Data-Spaces-Association/DataspaceConnector/pull/608) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
 3. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core/issues/121) in [International-Data-Spaces-Association/metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
-4. 🗣 Commented on [#76](https://github.com/International-Data-Spaces-Association/IDS-G/issues/76) in [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G)
-5. 🗣 Commented on [#125](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core/issues/125) in [International-Data-Spaces-Association/metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+4. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core/issues/121) in [International-Data-Spaces-Association/metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+5. 🗣 Commented on [#76](https://github.com/International-Data-Spaces-Association/IDS-G/issues/76) in [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
