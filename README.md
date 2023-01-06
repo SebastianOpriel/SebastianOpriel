@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/International-Data-Spaces-Association/IDS-G/issues/85) in [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G)
-2. 🎉 Merged PR [#1](https://github.com/sovity/edc-broker-extension/pull/1) in [sovity/edc-broker-extension](https://github.com/sovity/edc-broker-extension)
-3. 💪 Opened PR [#608](https://github.com/International-Data-Spaces-Association/DataspaceConnector/pull/608) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-4. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core/issues/121) in [International-Data-Spaces-Association/metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
-5. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core/issues/121) in [International-Data-Spaces-Association/metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+1. ❌ Closed PR [#48](https://github.com/sovity/IDS-Messaging-Services/pull/48) in [sovity/IDS-Messaging-Services](https://github.com/sovity/IDS-Messaging-Services)
+2. ❌ Closed PR [#9](https://github.com/sovity/MinimumViableDataspace/pull/9) in [sovity/MinimumViableDataspace](https://github.com/sovity/MinimumViableDataspace)
+3. ❌ Closed PR [#11](https://github.com/sovity/MinimumViableDataspace/pull/11) in [sovity/MinimumViableDataspace](https://github.com/sovity/MinimumViableDataspace)
+4. ❌ Closed PR [#1](https://github.com/sovity/MinimumViableDataspace/pull/1) in [sovity/MinimumViableDataspace](https://github.com/sovity/MinimumViableDataspace)
+5. ❌ Closed PR [#3](https://github.com/sovity/ids-clearing-house-service/pull/3) in [sovity/ids-clearing-house-service](https://github.com/sovity/ids-clearing-house-service)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
