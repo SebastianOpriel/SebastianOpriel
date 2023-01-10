@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/sovity/edc-broker-extension/issues/10) in [sovity/edc-broker-extension](https://github.com/sovity/edc-broker-extension)
-2. 🗣 Commented on [#309](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/309) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
-3. 🗣 Commented on [#309](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/309) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
-4. ❗️ Opened issue [#7](https://github.com/sovity/edc-broker-extension/issues/7) in [sovity/edc-broker-extension](https://github.com/sovity/edc-broker-extension)
-5. ❌ Closed PR [#48](https://github.com/sovity/IDS-Messaging-Services/pull/48) in [sovity/IDS-Messaging-Services](https://github.com/sovity/IDS-Messaging-Services)
+1. ❗️ Closed issue [#8](https://github.com/sovity/edc-extensions/issues/8) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. 🎉 Merged PR [#12](https://github.com/sovity/edc-extensions/pull/12) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. 🗣 Commented on [#8](https://github.com/sovity/edc-extensions/issues/8) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. ❗️ Opened issue [#10](https://github.com/sovity/edc-broker-extension/issues/10) in [sovity/edc-broker-extension](https://github.com/sovity/edc-broker-extension)
+5. 🗣 Commented on [#309](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/issues/309) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
