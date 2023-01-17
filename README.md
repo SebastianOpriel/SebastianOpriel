@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/sovity/edc-extensions/issues/25) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. 🎉 Merged PR [#27](https://github.com/sovity/edc-extensions/pull/27) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. 🗣 Commented on [#19](https://github.com/sovity/edc-extensions/issues/19) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-4. ❗️ Closed issue [#22](https://github.com/sovity/edc-extensions/issues/22) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. 🎉 Merged PR [#26](https://github.com/sovity/edc-extensions/pull/26) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 💪 Opened PR [#37](https://github.com/sovity/edc-extensions/pull/37) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. ❗️ Closed issue [#25](https://github.com/sovity/edc-extensions/issues/25) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. 🎉 Merged PR [#27](https://github.com/sovity/edc-extensions/pull/27) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. 🗣 Commented on [#19](https://github.com/sovity/edc-extensions/issues/19) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+5. ❗️ Closed issue [#22](https://github.com/sovity/edc-extensions/issues/22) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
