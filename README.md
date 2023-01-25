@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/sovity/edc-extensions/issues/59) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. 🗣 Commented on [#37](https://github.com/sovity/edc-ui/issues/37) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. 🗣 Commented on [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. ❗️ Opened issue [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. ❗️ Opened issue [#638](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/638) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+1. 🎉 Merged PR [#24](https://github.com/sovity/eslint-config/pull/24) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+2. ❗️ Opened issue [#59](https://github.com/sovity/edc-extensions/issues/59) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. 🗣 Commented on [#37](https://github.com/sovity/edc-ui/issues/37) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. ❗️ Opened issue [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
