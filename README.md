@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/sovity/edc-ui/pull/68) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🗣 Commented on [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. 🎉 Merged PR [#25](https://github.com/sovity/eslint-config/pull/25) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-4. 🎉 Merged PR [#52](https://github.com/sovity/edc-ui/pull/52) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. 🎉 Merged PR [#66](https://github.com/sovity/edc-extensions/pull/66) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 🗣 Commented on [#51](https://github.com/sovity/edc-ui/issues/51) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
+3. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
+4. 🎉 Merged PR [#68](https://github.com/sovity/edc-ui/pull/68) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. 🗣 Commented on [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
