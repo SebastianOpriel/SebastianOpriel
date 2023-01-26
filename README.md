@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/sovity/edc-ui/issues/51) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
-3. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
-4. 🎉 Merged PR [#68](https://github.com/sovity/edc-ui/pull/68) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. 🗣 Commented on [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. 🗣 Commented on [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. ❗️ Opened issue [#71](https://github.com/sovity/edc-ui/issues/71) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🗣 Commented on [#51](https://github.com/sovity/edc-ui/issues/51) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
+5. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
