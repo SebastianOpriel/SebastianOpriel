@@ -53,10 +53,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. ❗️ Opened issue [#71](https://github.com/sovity/edc-ui/issues/71) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. 🗣 Commented on [#51](https://github.com/sovity/edc-ui/issues/51) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
+1. 🎉 Merged PR [#23](https://github.com/sovity/eslint-config/pull/23) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+2. 🗣 Commented on [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. ❗️ Opened issue [#71](https://github.com/sovity/edc-ui/issues/71) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#51](https://github.com/sovity/edc-ui/issues/51) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 5. 🗣 Commented on [#124](https://github.com/International-Data-Spaces-Association/IDS-AppStore/issues/124) in [International-Data-Spaces-Association/IDS-AppStore](https://github.com/International-Data-Spaces-Association/IDS-AppStore)
 <!--END_SECTION:activity-->
 
