@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#93](https://github.com/sovity/edc-extensions/issues/93) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. 🗣 Commented on [#99](https://github.com/sovity/edc-ui/issues/99) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. 🗣 Commented on [#24](https://github.com/sovity/edc-ui/issues/24) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. 🎉 Merged PR [#23](https://github.com/sovity/eslint-config/pull/23) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-5. 🗣 Commented on [#23](https://github.com/sovity/edc-ui/issues/23) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. ❗️ Opened issue [#94](https://github.com/sovity/edc-extensions/issues/94) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. ❗️ Opened issue [#93](https://github.com/sovity/edc-extensions/issues/93) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. 🗣 Commented on [#99](https://github.com/sovity/edc-ui/issues/99) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#24](https://github.com/sovity/edc-ui/issues/24) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. 🎉 Merged PR [#23](https://github.com/sovity/eslint-config/pull/23) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
