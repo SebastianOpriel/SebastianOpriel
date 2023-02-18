@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/sovity/eslint-config/pull/28) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-2. 🎉 Merged PR [#124](https://github.com/sovity/edc-ui/pull/124) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. ❌ Closed PR [#30](https://github.com/sovity/eslint-config/pull/30) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-4. ❌ Closed PR [#29](https://github.com/sovity/eslint-config/pull/29) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-5. ❌ Closed PR [#127](https://github.com/sovity/edc-ui/pull/127) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. ❌ Closed PR [#119](https://github.com/sovity/edc-extensions/pull/119) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. ❌ Closed PR [#118](https://github.com/sovity/edc-extensions/pull/118) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. ❌ Closed PR [#120](https://github.com/sovity/edc-extensions/pull/120) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. 🎉 Merged PR [#28](https://github.com/sovity/eslint-config/pull/28) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+5. 🎉 Merged PR [#124](https://github.com/sovity/edc-ui/pull/124) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
