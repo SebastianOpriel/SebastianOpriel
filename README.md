@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#75](https://github.com/micnncim/action-label-syncer/issues/75) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
-2. 🎉 Merged PR [#35](https://github.com/sovity/eslint-config/pull/35) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-3. 🎉 Merged PR [#36](https://github.com/sovity/eslint-config/pull/36) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-4. 🎉 Merged PR [#137](https://github.com/sovity/edc-ui/pull/137) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. 🎉 Merged PR [#125](https://github.com/sovity/edc-extensions/pull/125) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 🗣 Commented on [#437](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/437) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+2. ❗️ Opened issue [#75](https://github.com/micnncim/action-label-syncer/issues/75) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
+3. 🎉 Merged PR [#35](https://github.com/sovity/eslint-config/pull/35) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+4. 🎉 Merged PR [#36](https://github.com/sovity/eslint-config/pull/36) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+5. 🎉 Merged PR [#137](https://github.com/sovity/edc-ui/pull/137) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
