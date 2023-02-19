@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/sovity/edc-ui/pull/134) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🎉 Merged PR [#124](https://github.com/sovity/edc-extensions/pull/124) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. ❌ Closed PR [#133](https://github.com/sovity/edc-ui/pull/133) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. 🎉 Merged PR [#122](https://github.com/sovity/edc-extensions/pull/122) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. 🎉 Merged PR [#123](https://github.com/sovity/edc-extensions/pull/123) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 🎉 Merged PR [#77](https://github.com/sovity/edc-ui/pull/77) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. ❗️ Opened issue [#136](https://github.com/sovity/edc-ui/issues/136) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🎉 Merged PR [#135](https://github.com/sovity/edc-ui/pull/135) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🎉 Merged PR [#134](https://github.com/sovity/edc-ui/pull/134) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. 🎉 Merged PR [#124](https://github.com/sovity/edc-extensions/pull/124) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
