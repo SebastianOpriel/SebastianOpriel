@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/sovity/edc-extensions/pull/121) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. 🗣 Commented on [#437](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/437) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-3. ❗️ Opened issue [#75](https://github.com/micnncim/action-label-syncer/issues/75) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
-4. 🎉 Merged PR [#35](https://github.com/sovity/eslint-config/pull/35) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-5. 🎉 Merged PR [#36](https://github.com/sovity/eslint-config/pull/36) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+1. ❗️ Opened issue [#8](https://github.com/eclipse-edc/Collateral/issues/8) in [eclipse-edc/Collateral](https://github.com/eclipse-edc/Collateral)
+2. 🎉 Merged PR [#121](https://github.com/sovity/edc-extensions/pull/121) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. 🗣 Commented on [#437](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/437) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+4. ❗️ Opened issue [#75](https://github.com/micnncim/action-label-syncer/issues/75) in [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer)
+5. 🎉 Merged PR [#35](https://github.com/sovity/eslint-config/pull/35) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
