@@ -53,10 +53,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/sovity/edc-extensions/pull/172) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. ❗️ Opened issue [#13](https://github.com/eclipse-tractusx/puris-backend/issues/13) in [eclipse-tractusx/puris-backend](https://github.com/eclipse-tractusx/puris-backend)
-3. 🗣 Commented on [#2298](https://github.com/eclipse-edc/Connector/issues/2298) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-4. 🗣 Commented on [#161](https://github.com/sovity/edc-extensions/issues/161) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 🎉 Merged PR [#173](https://github.com/sovity/edc-extensions/pull/173) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. 🎉 Merged PR [#172](https://github.com/sovity/edc-extensions/pull/172) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. ❗️ Opened issue [#13](https://github.com/eclipse-tractusx/puris-backend/issues/13) in [eclipse-tractusx/puris-backend](https://github.com/eclipse-tractusx/puris-backend)
+4. 🗣 Commented on [#2298](https://github.com/eclipse-edc/Connector/issues/2298) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 5. 🗣 Commented on [#161](https://github.com/sovity/edc-extensions/issues/161) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
