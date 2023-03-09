@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I'm CTO and Co-founder of sovity, a startup from Dortmund, Germany. We provide Dataspace Connectors as SaaS to provide easy access to data spaces.
+##### I'm CTO and Co-founder of sovity, a startup from Dortmund, Germany. We provide Dataspace Connectors as a Service (CaaS) to provide easy access to data spaces.
 
 ### Contact
 
