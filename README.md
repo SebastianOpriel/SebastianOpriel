@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#190](https://github.com/sovity/edc-extensions/issues/190) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. 🗣 Commented on [#190](https://github.com/sovity/edc-extensions/issues/190) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. ❗️ Closed issue [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. 🗣 Commented on [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. ❗️ Opened issue [#210](https://github.com/sovity/edc-extensions/issues/210) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 🗣 Commented on [#2605](https://github.com/eclipse-edc/Connector/issues/2605) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. ❗️ Closed issue [#190](https://github.com/sovity/edc-extensions/issues/190) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. 🗣 Commented on [#190](https://github.com/sovity/edc-extensions/issues/190) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. ❗️ Closed issue [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. 🗣 Commented on [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
