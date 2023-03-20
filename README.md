@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#210](https://github.com/sovity/edc-extensions/issues/210) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. 🗣 Commented on [#169](https://github.com/sovity/edc-extensions/issues/169) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. ❌ Closed PR [#36](https://github.com/International-Data-Spaces-Association/IDS-G/pull/36) in [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G)
-4. ❗️ Opened issue [#209](https://github.com/sovity/edc-extensions/issues/209) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. ❗️ Closed issue [#176](https://github.com/sovity/edc-extensions/issues/176) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. ❗️ Closed issue [#190](https://github.com/sovity/edc-extensions/issues/190) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. 🗣 Commented on [#190](https://github.com/sovity/edc-extensions/issues/190) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. ❗️ Closed issue [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#26](https://github.com/sovity/edc-ui/issues/26) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. ❗️ Opened issue [#210](https://github.com/sovity/edc-extensions/issues/210) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
