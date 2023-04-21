@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#191](https://github.com/sovity/edc-extensions/issues/191) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. ❗️ Closed issue [#194](https://github.com/sovity/edc-extensions/issues/194) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. ❗️ Closed issue [#193](https://github.com/sovity/edc-extensions/issues/193) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-4. ❗️ Closed issue [#183](https://github.com/sovity/edc-extensions/issues/183) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. 🗣 Commented on [#183](https://github.com/sovity/edc-extensions/issues/183) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+2. ❗️ Closed issue [#191](https://github.com/sovity/edc-extensions/issues/191) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. ❗️ Closed issue [#194](https://github.com/sovity/edc-extensions/issues/194) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. ❗️ Closed issue [#193](https://github.com/sovity/edc-extensions/issues/193) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+5. ❗️ Closed issue [#183](https://github.com/sovity/edc-extensions/issues/183) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
