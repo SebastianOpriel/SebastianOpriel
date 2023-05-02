@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2548](https://github.com/eclipse-edc/Connector/issues/2548) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-2. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-3. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/IDS-testbed/issues/121) in [International-Data-Spaces-Association/IDS-testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed)
-4. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-5. ❗️ Closed issue [#191](https://github.com/sovity/edc-extensions/issues/191) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. 🗣 Commented on [#253](https://github.com/sovity/edc-ui/issues/253) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. 🗣 Commented on [#2548](https://github.com/eclipse-edc/Connector/issues/2548) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+4. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/IDS-testbed/issues/121) in [International-Data-Spaces-Association/IDS-testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed)
+5. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
