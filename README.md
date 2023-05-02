@@ -53,10 +53,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#253](https://github.com/sovity/edc-ui/issues/253) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🗣 Commented on [#2548](https://github.com/eclipse-edc/Connector/issues/2548) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-4. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/IDS-testbed/issues/121) in [International-Data-Spaces-Association/IDS-testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed)
+1. 🗣 Commented on [#292](https://github.com/sovity/edc-extensions/issues/292) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. ❗️ Closed issue [#108](https://github.com/sovity/edc-ui/issues/108) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🗣 Commented on [#253](https://github.com/sovity/edc-ui/issues/253) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#2548](https://github.com/eclipse-edc/Connector/issues/2548) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 5. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
 <!--END_SECTION:activity-->
 
