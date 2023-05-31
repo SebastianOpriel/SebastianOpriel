@@ -53,9 +53,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#352](https://github.com/sovity/edc-extensions/issues/352) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. ❗ Opened issue [#352](https://github.com/sovity/edc-extensions/issues/352) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 2. 🗣 Commented on [#3044](https://github.com/eclipse-edc/Connector/issues/3044) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. ❗️ Opened issue [#285](https://github.com/sovity/edc-ui/issues/285) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. ❗ Opened issue [#285](https://github.com/sovity/edc-ui/issues/285) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 4. 🗣 Commented on [#266](https://github.com/sovity/edc-extensions/issues/266) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 5. 🎉 Merged PR [#337](https://github.com/sovity/edc-extensions/pull/337) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
