@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#133](https://github.com/International-Data-Spaces-Association/ids-specification/issues/133) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. ❗ Opened issue [#436](https://github.com/sovity/edc-extensions/issues/436) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. 🗣 Commented on [#388](https://github.com/sovity/edc-extensions/issues/388#issuecomment-1640400168) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-4. 🗣 Commented on [#42051](https://github.com/kubernetes/website/pull/42051#issuecomment-1640100161) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#42051](https://github.com/kubernetes/website/pull/42051#issuecomment-1640098877) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#133](https://github.com/International-Data-Spaces-Association/ids-specification/issues/133#issuecomment-1645159266) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. ❗ Opened issue [#133](https://github.com/International-Data-Spaces-Association/ids-specification/issues/133) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. ❗ Opened issue [#436](https://github.com/sovity/edc-extensions/issues/436) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. 🗣 Commented on [#388](https://github.com/sovity/edc-extensions/issues/388#issuecomment-1640400168) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+5. 🗣 Commented on [#42051](https://github.com/kubernetes/website/pull/42051#issuecomment-1640100161) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
