@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#134](https://github.com/International-Data-Spaces-Association/ids-specification/issues/134) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 💪 Opened PR [#445](https://github.com/sovity/edc-extensions/pull/445) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. ❌ Closed PR [#441](https://github.com/sovity/edc-extensions/pull/441) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-4. ❌ Closed PR [#442](https://github.com/sovity/edc-extensions/pull/442) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. ❌ Closed PR [#443](https://github.com/sovity/edc-extensions/pull/443) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. ❗ Opened issue [#380](https://github.com/sovity/edc-ui/issues/380) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. ❗ Opened issue [#134](https://github.com/International-Data-Spaces-Association/ids-specification/issues/134) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 💪 Opened PR [#445](https://github.com/sovity/edc-extensions/pull/445) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. ❌ Closed PR [#441](https://github.com/sovity/edc-extensions/pull/441) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+5. ❌ Closed PR [#442](https://github.com/sovity/edc-extensions/pull/442) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
