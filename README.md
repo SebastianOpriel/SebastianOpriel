@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#424](https://github.com/sovity/edc-ui/issues/424) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🗣 Commented on [#133](https://github.com/International-Data-Spaces-Association/ids-specification/issues/133#issuecomment-1665425060) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 💪 Opened PR [#138](https://github.com/International-Data-Spaces-Association/ids-specification/pull/138) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 💪 Opened PR [#137](https://github.com/International-Data-Spaces-Association/ids-specification/pull/137) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🗣 Commented on [#673](https://github.com/eclipse-tractusx/tractusx-edc/issues/673#issuecomment-1661948736) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+1. ❗ Opened issue [#425](https://github.com/sovity/edc-ui/issues/425) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. ❗ Opened issue [#424](https://github.com/sovity/edc-ui/issues/424) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🗣 Commented on [#133](https://github.com/International-Data-Spaces-Association/ids-specification/issues/133#issuecomment-1665425060) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 💪 Opened PR [#138](https://github.com/International-Data-Spaces-Association/ids-specification/pull/138) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 💪 Opened PR [#137](https://github.com/International-Data-Spaces-Association/ids-specification/pull/137) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
