@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#507](https://github.com/sovity/edc-extensions/pull/507) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. 💪 Opened PR [#507](https://github.com/sovity/edc-extensions/pull/507) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. ❗ Opened issue [#148](https://github.com/International-Data-Spaces-Association/ids-specification/issues/148) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🗣 Commented on [#145](https://github.com/International-Data-Spaces-Association/ids-specification/issues/145#issuecomment-1700596273) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. ❗ Opened issue [#487](https://github.com/sovity/edc-extensions/issues/487) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. ❗ Opened issue [#465](https://github.com/sovity/edc-ui/issues/465) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. 🎉 Merged PR [#507](https://github.com/sovity/edc-extensions/pull/507) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. 💪 Opened PR [#507](https://github.com/sovity/edc-extensions/pull/507) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. ❗ Opened issue [#148](https://github.com/International-Data-Spaces-Association/ids-specification/issues/148) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 🗣 Commented on [#145](https://github.com/International-Data-Spaces-Association/ids-specification/issues/145#issuecomment-1700596273) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
