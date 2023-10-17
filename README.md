@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/narinder9/cool-timeline/issues/5) in [narinder9/cool-timeline](https://github.com/narinder9/cool-timeline)
-2. 🗣 Commented on [#2703](https://github.com/eclipse-edc/Connector/pull/2703#issuecomment-1741110977) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. ❌ Closed PR [#143](https://github.com/International-Data-Spaces-Association/ids-specification/pull/143) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. ❗ Opened issue [#465](https://github.com/sovity/edc-ui/issues/465) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. 🎉 Merged PR [#507](https://github.com/sovity/edc-extensions/pull/507) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. ❗ Opened issue [#518](https://github.com/sovity/edc-ui/issues/518) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. 🔒 Closed issue [#497](https://github.com/sovity/edc-ui/issues/497) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. ❗ Opened issue [#5](https://github.com/narinder9/cool-timeline/issues/5) in [narinder9/cool-timeline](https://github.com/narinder9/cool-timeline)
+4. 🗣 Commented on [#2703](https://github.com/eclipse-edc/Connector/pull/2703#issuecomment-1741110977) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+5. ❌ Closed PR [#143](https://github.com/International-Data-Spaces-Association/ids-specification/pull/143) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
