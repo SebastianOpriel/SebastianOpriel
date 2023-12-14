@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#724](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/724) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-2. 🎉 Merged PR [#725](https://github.com/International-Data-Spaces-Association/DataspaceConnector/pull/725) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-3. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825526992) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-4. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825391876) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-5. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170#issuecomment-1823888961) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+1. 🎉 Merged PR [#314](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/314) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+2. 🎉 Merged PR [#756](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/pull/756) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+3. 🔒 Closed issue [#724](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/724) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+4. 🎉 Merged PR [#725](https://github.com/International-Data-Spaces-Association/DataspaceConnector/pull/725) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+5. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825526992) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
