@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825526992) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-2. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825391876) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170#issuecomment-1823888961) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-4. 🗣 Commented on [#608](https://github.com/sovity/edc-extensions/issues/608#issuecomment-1822505103) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. 🗣 Commented on [#518](https://github.com/sovity/edc-ui/issues/518#issuecomment-1822497746) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. 🔒 Closed issue [#724](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/724) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+2. 🎉 Merged PR [#725](https://github.com/International-Data-Spaces-Association/DataspaceConnector/pull/725) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+3. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825526992) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+4. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825391876) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+5. 🗣 Commented on [#170](https://github.com/eclipse-tractusx/tractusx-edc/issues/170#issuecomment-1823888961) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
