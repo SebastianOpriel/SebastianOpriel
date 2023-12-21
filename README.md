@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#314](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/314) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
-2. 🎉 Merged PR [#756](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/pull/756) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
-3. 🔒 Closed issue [#724](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/724) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-4. 🎉 Merged PR [#725](https://github.com/International-Data-Spaces-Association/DataspaceConnector/pull/725) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
-5. 🗣 Commented on [#3639](https://github.com/eclipse-edc/Connector/issues/3639#issuecomment-1825526992) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. 🔒 Closed issue [#362](https://github.com/sovity/edc-ui/issues/362) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. 🎉 Merged PR [#566](https://github.com/sovity/edc-ui/pull/566) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🎉 Merged PR [#314](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/314) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
+4. 🎉 Merged PR [#756](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/pull/756) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+5. 🔒 Closed issue [#724](https://github.com/International-Data-Spaces-Association/DataspaceConnector/issues/724) in [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
