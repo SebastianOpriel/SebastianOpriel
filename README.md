@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/sovity/edc-ui/issues/211#issuecomment-1880617095) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🔒 Closed issue [#362](https://github.com/sovity/edc-ui/issues/362) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. 🎉 Merged PR [#566](https://github.com/sovity/edc-ui/pull/566) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. 🎉 Merged PR [#314](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI/pull/314) in [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI)
-5. 🎉 Merged PR [#756](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services/pull/756) in [International-Data-Spaces-Association/IDS-Messaging-Services](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+1. 🗣 Commented on [#593](https://github.com/sovity/edc-ui/issues/593#issuecomment-1880647156) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. 🗣 Commented on [#594](https://github.com/sovity/edc-ui/issues/594#issuecomment-1880646528) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🗣 Commented on [#211](https://github.com/sovity/edc-ui/issues/211#issuecomment-1880617095) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🔒 Closed issue [#362](https://github.com/sovity/edc-ui/issues/362) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. 🎉 Merged PR [#566](https://github.com/sovity/edc-ui/pull/566) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
