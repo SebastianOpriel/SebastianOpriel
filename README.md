@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#813](https://github.com/sovity/edc-extensions/issues/813#issuecomment-1959480359) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. ❗ Opened issue [#689](https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/issues/689) in [eclipse-tractusx/eclipse-tractusx.github.io](https://github.com/eclipse-tractusx/eclipse-tractusx.github.io)
-3. ❗ Opened issue [#805](https://github.com/sovity/edc-extensions/issues/805) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-4. 🗣 Commented on [#660](https://github.com/sovity/edc-ui/issues/660#issuecomment-1941644713) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. 💪 Opened PR [#660](https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/pull/660) in [eclipse-tractusx/eclipse-tractusx.github.io](https://github.com/eclipse-tractusx/eclipse-tractusx.github.io)
+1. ❗ Opened issue [#677](https://github.com/sovity/edc-ui/issues/677) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. 🗣 Commented on [#813](https://github.com/sovity/edc-extensions/issues/813#issuecomment-1959480359) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. ❗ Opened issue [#689](https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/issues/689) in [eclipse-tractusx/eclipse-tractusx.github.io](https://github.com/eclipse-tractusx/eclipse-tractusx.github.io)
+4. ❗ Opened issue [#805](https://github.com/sovity/edc-extensions/issues/805) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+5. 🗣 Commented on [#660](https://github.com/sovity/edc-ui/issues/660#issuecomment-1941644713) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
