@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#702](https://github.com/sovity/edc-ui/issues/702#issuecomment-2010002584) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🔓 Reopened issue [#702](https://github.com/sovity/edc-ui/issues/702) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. 🗣 Commented on [#454](https://github.com/sovity/edc-broker-server-extension/issues/454#issuecomment-1997278039) in [sovity/edc-broker-server-extension](https://github.com/sovity/edc-broker-server-extension)
-4. 🗣 Commented on [#605](https://github.com/sovity/edc-extensions/issues/605#issuecomment-1970648890) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. ❗ Opened issue [#677](https://github.com/sovity/edc-ui/issues/677) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. 🗣 Commented on [#605](https://github.com/sovity/edc-extensions/issues/605#issuecomment-2015354701) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. 🗣 Commented on [#702](https://github.com/sovity/edc-ui/issues/702#issuecomment-2010002584) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🔓 Reopened issue [#702](https://github.com/sovity/edc-ui/issues/702) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#454](https://github.com/sovity/edc-broker-server-extension/issues/454#issuecomment-1997278039) in [sovity/edc-broker-server-extension](https://github.com/sovity/edc-broker-server-extension)
+5. 🗣 Commented on [#605](https://github.com/sovity/edc-extensions/issues/605#issuecomment-1970648890) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
