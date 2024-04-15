@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#884](https://github.com/sovity/edc-extensions/pull/884) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-2. ❌ Closed PR [#883](https://github.com/sovity/edc-extensions/pull/883) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-3. 💪 Opened PR [#883](https://github.com/sovity/edc-extensions/pull/883) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-4. ❌ Closed PR [#882](https://github.com/sovity/edc-extensions/pull/882) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-5. 💪 Opened PR [#882](https://github.com/sovity/edc-extensions/pull/882) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+1. ❌ Closed PR [#884](https://github.com/sovity/edc-extensions/pull/884) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+2. 💪 Opened PR [#884](https://github.com/sovity/edc-extensions/pull/884) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+3. ❌ Closed PR [#883](https://github.com/sovity/edc-extensions/pull/883) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+4. 💪 Opened PR [#883](https://github.com/sovity/edc-extensions/pull/883) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
+5. ❌ Closed PR [#882](https://github.com/sovity/edc-extensions/pull/882) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
