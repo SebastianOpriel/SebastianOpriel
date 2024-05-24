@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#212](https://github.com/sovity/authority-portal/issues/212) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-2. ❗ Opened issue [#211](https://github.com/sovity/authority-portal/issues/211) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-3. 💪 Opened PR [#929](https://github.com/sovity/edc-extensions/pull/929) in [sovity/edc-extensions](https://github.com/sovity/edc-extensions)
-4. 🗣 Commented on [#960](https://github.com/mrparkers/terraform-provider-keycloak/issues/960#issuecomment-2116661676) in [mrparkers/terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak)
-5. 🗣 Commented on [#439](https://github.com/sovity/edc-ui/issues/439#issuecomment-2114583712) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. ❗ Opened issue [#746](https://github.com/sovity/edc-ui/issues/746) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. ❗ Opened issue [#745](https://github.com/sovity/edc-ui/issues/745) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. ❗ Opened issue [#744](https://github.com/sovity/edc-ui/issues/744) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. ❗ Opened issue [#214](https://github.com/sovity/authority-portal/issues/214) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+5. ❗ Opened issue [#212](https://github.com/sovity/authority-portal/issues/212) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
