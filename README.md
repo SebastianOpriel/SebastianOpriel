@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/sovity/authority-portal/issues/214#issuecomment-2370319408) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-2. 🗣 Commented on [#214](https://github.com/sovity/authority-portal/issues/214#issuecomment-2368764095) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-3. 💪 Opened PR [#323](https://github.com/sovity/authority-portal/pull/323) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-4. 🗣 Commented on [#3](https://github.com/sovity/sovity-daps/pull/3#issuecomment-2368700893) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
-5. 🗣 Commented on [#241](https://github.com/sovity/authority-portal/issues/241#issuecomment-2242368571) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+1. ❗ Opened issue [#273](https://github.com/International-Data-Spaces-Association/ids-specification/issues/273) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🗣 Commented on [#214](https://github.com/sovity/authority-portal/issues/214#issuecomment-2370319408) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+3. 🗣 Commented on [#214](https://github.com/sovity/authority-portal/issues/214#issuecomment-2368764095) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+4. 💪 Opened PR [#323](https://github.com/sovity/authority-portal/pull/323) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+5. 🗣 Commented on [#3](https://github.com/sovity/sovity-daps/pull/3#issuecomment-2368700893) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
