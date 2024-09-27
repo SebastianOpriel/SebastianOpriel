@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#326](https://github.com/sovity/authority-portal/issues/326) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-2. 🗣 Commented on [#3](https://github.com/sovity/sovity-daps/pull/3#issuecomment-2374155845) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
-3. ❌ Closed PR [#3](https://github.com/sovity/sovity-daps/pull/3) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
-4. ❗ Opened issue [#273](https://github.com/International-Data-Spaces-Association/ids-specification/issues/273) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🗣 Commented on [#214](https://github.com/sovity/authority-portal/issues/214#issuecomment-2370319408) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+1. 🗣 Commented on [#835](https://github.com/sovity/edc-ui/pull/835#issuecomment-2378943286) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+2. ❗ Opened issue [#326](https://github.com/sovity/authority-portal/issues/326) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+3. 🗣 Commented on [#3](https://github.com/sovity/sovity-daps/pull/3#issuecomment-2374155845) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
+4. ❌ Closed PR [#3](https://github.com/sovity/sovity-daps/pull/3) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
+5. ❗ Opened issue [#273](https://github.com/International-Data-Spaces-Association/ids-specification/issues/273) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
