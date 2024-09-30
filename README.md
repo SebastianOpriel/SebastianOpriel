@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/sovity/edc-ui/issues/89#issuecomment-2379442079) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-2. 🔒 Closed issue [#89](https://github.com/sovity/edc-ui/issues/89) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. 🗣 Commented on [#98](https://github.com/sovity/edc-ui/issues/98#issuecomment-2379437332) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. 🗣 Commented on [#201](https://github.com/sovity/edc-ui/issues/201#issuecomment-2379434201) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. 🗣 Commented on [#252](https://github.com/sovity/edc-ui/issues/252#issuecomment-2379429812) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. ❗ Opened issue [#334](https://github.com/sovity/authority-portal/issues/334) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+2. 🗣 Commented on [#89](https://github.com/sovity/edc-ui/issues/89#issuecomment-2379442079) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. 🔒 Closed issue [#89](https://github.com/sovity/edc-ui/issues/89) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🗣 Commented on [#98](https://github.com/sovity/edc-ui/issues/98#issuecomment-2379437332) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+5. 🗣 Commented on [#201](https://github.com/sovity/edc-ui/issues/201#issuecomment-2379434201) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
