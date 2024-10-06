@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/sovity/edc-ce/issues/182#issuecomment-2395344904) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-2. 🗣 Commented on [#188](https://github.com/sovity/edc-ce/issues/188#issuecomment-2395344737) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-3. 🔒 Closed issue [#192](https://github.com/sovity/edc-ce/issues/192) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-4. 🗣 Commented on [#196](https://github.com/sovity/edc-ce/issues/196#issuecomment-2395341271) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-5. 🔒 Closed issue [#210](https://github.com/sovity/edc-ce/issues/210) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+1. 🗣 Commented on [#336](https://github.com/sovity/edc-ce/issues/336#issuecomment-2395353697) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+2. 🔒 Closed issue [#336](https://github.com/sovity/edc-ce/issues/336) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+3. 🔒 Closed issue [#948](https://github.com/sovity/edc-ce/issues/948) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+4. 🔒 Closed issue [#950](https://github.com/sovity/edc-ce/issues/950) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+5. 🗣 Commented on [#951](https://github.com/sovity/edc-ce/issues/951#issuecomment-2395352836) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
