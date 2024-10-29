@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1073](https://github.com/sovity/edc-ce/pull/1073) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-2. 💪 Opened PR [#1072](https://github.com/sovity/edc-ce/pull/1072) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-3. ❗ Opened issue [#356](https://github.com/sovity/authority-portal/issues/356) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-4. ❗ Opened issue [#355](https://github.com/sovity/authority-portal/issues/355) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-5. 🗣 Commented on [#1068](https://github.com/sovity/edc-ce/issues/1068#issuecomment-2420485319) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+1. 🎉 Merged PR [#1073](https://github.com/sovity/edc-ce/pull/1073) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+2. 💪 Opened PR [#1073](https://github.com/sovity/edc-ce/pull/1073) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+3. 💪 Opened PR [#1072](https://github.com/sovity/edc-ce/pull/1072) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+4. ❗ Opened issue [#356](https://github.com/sovity/authority-portal/issues/356) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+5. ❗ Opened issue [#355](https://github.com/sovity/authority-portal/issues/355) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
