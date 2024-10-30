@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1076](https://github.com/sovity/edc-ce/pull/1076) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-2. ❗ Opened issue [#1075](https://github.com/sovity/edc-ce/issues/1075) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-3. 🎉 Merged PR [#1073](https://github.com/sovity/edc-ce/pull/1073) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-4. 💪 Opened PR [#1073](https://github.com/sovity/edc-ce/pull/1073) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-5. 💪 Opened PR [#1072](https://github.com/sovity/edc-ce/pull/1072) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+1. 🎉 Merged PR [#61](https://github.com/sovity/eslint-config/pull/61) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+2. ❌ Closed PR [#876](https://github.com/sovity/edc-ui/pull/876) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+3. ❌ Closed PR [#359](https://github.com/sovity/authority-portal/pull/359) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+4. 🎉 Merged PR [#1071](https://github.com/sovity/edc-ce/pull/1071) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+5. 🎉 Merged PR [#1072](https://github.com/sovity/edc-ce/pull/1072) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
