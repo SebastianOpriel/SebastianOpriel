@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#604](https://github.com/sovity/edc-ce/issues/604#issuecomment-2450799066) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-2. 🔒 Closed issue [#604](https://github.com/sovity/edc-ce/issues/604) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-3. 🎉 Merged PR [#61](https://github.com/sovity/eslint-config/pull/61) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-4. ❌ Closed PR [#876](https://github.com/sovity/edc-ui/pull/876) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-5. ❌ Closed PR [#359](https://github.com/sovity/authority-portal/pull/359) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+1. ❗ Opened issue [#279](https://github.com/International-Data-Spaces-Association/ids-specification/issues/279) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. ❗ Opened issue [#278](https://github.com/International-Data-Spaces-Association/ids-specification/issues/278) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🗣 Commented on [#604](https://github.com/sovity/edc-ce/issues/604#issuecomment-2450799066) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+4. 🔒 Closed issue [#604](https://github.com/sovity/edc-ce/issues/604) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+5. 🎉 Merged PR [#61](https://github.com/sovity/eslint-config/pull/61) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
