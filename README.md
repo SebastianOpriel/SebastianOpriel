@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1084](https://github.com/sovity/edc-ce/pull/1084) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-2. 🎉 Merged PR [#372](https://github.com/sovity/authority-portal/pull/372) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-3. 🎉 Merged PR [#63](https://github.com/sovity/eslint-config/pull/63) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-4. 🎉 Merged PR [#10](https://github.com/sovity/sovity-daps/pull/10) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
-5. 🎉 Merged PR [#877](https://github.com/sovity/edc-ui/pull/877) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+1. 🔒 Closed issue [#1030](https://github.com/sovity/edc-ce/issues/1030) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+2. 🗣 Commented on [#4583](https://github.com/eclipse-edc/Connector/issues/4583#issuecomment-2488724097) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. 🎉 Merged PR [#1084](https://github.com/sovity/edc-ce/pull/1084) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+4. 🎉 Merged PR [#372](https://github.com/sovity/authority-portal/pull/372) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+5. 🎉 Merged PR [#63](https://github.com/sovity/eslint-config/pull/63) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
