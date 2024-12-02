@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#340](https://github.com/sovity/authority-portal/issues/340) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-2. 🔒 Closed issue [#212](https://github.com/sovity/authority-portal/issues/212) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-3. 🔒 Closed issue [#214](https://github.com/sovity/authority-portal/issues/214) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-4. 🔒 Closed issue [#333](https://github.com/sovity/authority-portal/issues/333) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
-5. 🔓 Reopened issue [#333](https://github.com/sovity/authority-portal/issues/333) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+1. ❗ Opened issue [#1098](https://github.com/sovity/edc-ce/issues/1098) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+2. 🔒 Closed issue [#340](https://github.com/sovity/authority-portal/issues/340) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+3. 🔒 Closed issue [#212](https://github.com/sovity/authority-portal/issues/212) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+4. 🔒 Closed issue [#214](https://github.com/sovity/authority-portal/issues/214) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+5. 🔒 Closed issue [#333](https://github.com/sovity/authority-portal/issues/333) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
