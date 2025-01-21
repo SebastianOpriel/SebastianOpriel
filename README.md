@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/sovity/chat-app/pull/16) in [sovity/chat-app](https://github.com/sovity/chat-app)
-2. ❗ Opened issue [#890](https://github.com/sovity/edc-ui/issues/890) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-3. ❗ Opened issue [#889](https://github.com/sovity/edc-ui/issues/889) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. ❗ Opened issue [#1098](https://github.com/sovity/edc-ce/issues/1098) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-5. 🔒 Closed issue [#340](https://github.com/sovity/authority-portal/issues/340) in [sovity/authority-portal](https://github.com/sovity/authority-portal)
+1. ❌ Closed PR [#65](https://github.com/sovity/eslint-config/pull/65) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+2. 💪 Opened PR [#65](https://github.com/sovity/eslint-config/pull/65) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+3. 💪 Opened PR [#19](https://github.com/sovity/chat-app/pull/19) in [sovity/chat-app](https://github.com/sovity/chat-app)
+4. ❌ Closed PR [#18](https://github.com/sovity/chat-app/pull/18) in [sovity/chat-app](https://github.com/sovity/chat-app)
+5. 💪 Opened PR [#18](https://github.com/sovity/chat-app/pull/18) in [sovity/chat-app](https://github.com/sovity/chat-app)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
