@@ -53,8 +53,8 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#439](https://github.com/sovity/dataspace-portal/issues/439#issuecomment-2734172763) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
-2. ❌ Closed PR [#1120](https://github.com/sovity/edc-ce/pull/1120) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+1. 🗣 Commented on [#441](https://github.com/sovity/dataspace-portal/pull/441#issuecomment-2830431847) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
+2. 🗣 Commented on [#441](https://github.com/sovity/dataspace-portal/pull/441#issuecomment-2830412100) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
 3. 💪 Opened PR [#1120](https://github.com/sovity/edc-ce/pull/1120) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
 4. ❌ Closed PR [#18](https://github.com/sovity/chat-app/pull/18) in [sovity/chat-app](https://github.com/sovity/chat-app)
 5. 💪 Opened PR [#18](https://github.com/sovity/chat-app/pull/18) in [sovity/chat-app](https://github.com/sovity/chat-app)
