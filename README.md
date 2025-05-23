@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/sovity/dataspace-portal/pull/441#issuecomment-2830431847) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
-2. 🗣 Commented on [#441](https://github.com/sovity/dataspace-portal/pull/441#issuecomment-2830412100) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
-3. 💪 Opened PR [#1120](https://github.com/sovity/edc-ce/pull/1120) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
-4. ❌ Closed PR [#18](https://github.com/sovity/chat-app/pull/18) in [sovity/chat-app](https://github.com/sovity/chat-app)
-5. 💪 Opened PR [#18](https://github.com/sovity/chat-app/pull/18) in [sovity/chat-app](https://github.com/sovity/chat-app)
+1. ❌ Closed PR [#64](https://github.com/sovity/eslint-config/pull/64) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
+2. 🎉 Merged PR [#18](https://github.com/sovity/sovity-daps/pull/18) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
+3. ❌ Closed PR [#895](https://github.com/sovity/edc-ui/pull/895) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
+4. 🎉 Merged PR [#442](https://github.com/sovity/dataspace-portal/pull/442) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
+5. 🗣 Commented on [#441](https://github.com/sovity/dataspace-portal/pull/441#issuecomment-2830431847) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
