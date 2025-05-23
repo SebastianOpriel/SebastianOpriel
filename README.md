@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/sovity/terragrunt/pull/21) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
-2. ❌ Closed PR [#20](https://github.com/sovity/terragrunt/pull/20) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
-3. ❌ Closed PR [#19](https://github.com/sovity/terragrunt/pull/19) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
-4. ❌ Closed PR [#18](https://github.com/sovity/terragrunt/pull/18) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
-5. ❌ Closed PR [#17](https://github.com/sovity/terragrunt/pull/17) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+1. 💪 Opened PR [#444](https://github.com/sovity/dataspace-portal/pull/444) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
+2. ❌ Closed PR [#21](https://github.com/sovity/terragrunt/pull/21) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+3. ❌ Closed PR [#20](https://github.com/sovity/terragrunt/pull/20) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+4. ❌ Closed PR [#19](https://github.com/sovity/terragrunt/pull/19) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+5. ❌ Closed PR [#18](https://github.com/sovity/terragrunt/pull/18) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
