@@ -53,11 +53,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#64](https://github.com/sovity/eslint-config/pull/64) in [sovity/eslint-config](https://github.com/sovity/eslint-config)
-2. 🎉 Merged PR [#18](https://github.com/sovity/sovity-daps/pull/18) in [sovity/sovity-daps](https://github.com/sovity/sovity-daps)
-3. ❌ Closed PR [#895](https://github.com/sovity/edc-ui/pull/895) in [sovity/edc-ui](https://github.com/sovity/edc-ui)
-4. 🎉 Merged PR [#442](https://github.com/sovity/dataspace-portal/pull/442) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
-5. 🗣 Commented on [#441](https://github.com/sovity/dataspace-portal/pull/441#issuecomment-2830431847) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
+1. ❌ Closed PR [#21](https://github.com/sovity/terragrunt/pull/21) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+2. ❌ Closed PR [#20](https://github.com/sovity/terragrunt/pull/20) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+3. ❌ Closed PR [#19](https://github.com/sovity/terragrunt/pull/19) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+4. ❌ Closed PR [#18](https://github.com/sovity/terragrunt/pull/18) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
+5. ❌ Closed PR [#17](https://github.com/sovity/terragrunt/pull/17) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianOpriel&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
