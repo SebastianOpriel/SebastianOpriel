@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#444](https://github.com/sovity/dataspace-portal/pull/444) in [sovity/dataspace-portal](https://github.com/sovity/dataspace-portal)
+1. 🗣 Commented on [#860](https://github.com/sovity/edc-ce/issues/860#issuecomment-3257456743) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
 2. ❌ Closed PR [#21](https://github.com/sovity/terragrunt/pull/21) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
 3. ❌ Closed PR [#20](https://github.com/sovity/terragrunt/pull/20) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
 4. ❌ Closed PR [#19](https://github.com/sovity/terragrunt/pull/19) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
