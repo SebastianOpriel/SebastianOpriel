@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#1190](https://github.com/sovity/edc-ce/issues/1190) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
+1. ❗ Opened issue [#2430](https://github.com/eclipse-tractusx/tractusx-edc/issues/2430) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
 2. ❗ Opened issue [#1190](https://github.com/sovity/edc-ce/issues/1190) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
 3. 🗣 Commented on [#860](https://github.com/sovity/edc-ce/issues/860#issuecomment-3257456743) in [sovity/edc-ce](https://github.com/sovity/edc-ce)
 4. ❌ Closed PR [#19](https://github.com/sovity/terragrunt/pull/19) in [sovity/terragrunt](https://github.com/sovity/terragrunt)
